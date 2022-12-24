@@ -4,9 +4,26 @@
 <h3 align="left">Summary:</h3>
 <p align ="left">I'm a software developer from Venezuela, usually I like to spend my time experimenting and exploring new technologies and tech trends to keep myself updated and motivated. I also like to experment with cybersecurity stuff and design. I'm always willing to learn something new. I like to develop web applications (frontend/backend) with frameworks such as Angular, Vue or React and technologies such as Nodejs. I also like to do some experiments in Videogame  development with the Unity game engine.</p>
 
+<div style="
+             display: grid;
+             grid-template-columns: repeat(2, 1fr);
+             grid-template-rows: repeat(2, 1fr);
+             grid-column-gap: 0px;
+             grid-row-gap: 0px;
+            "
+align="center">
+  <div style="grid-column: 1 / 3" > <img src="https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/0-profile-details.svg"/> </div>
+  <div style="grid-column:1 / 3"> 
+    <div style="display:inline-block">
+      <img src="https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/3-stats.svg"/> 
+      <img src="https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
+    </div>
+  </div>
+</div>
 
+<!--
 ![](https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/3-stats.svg) ![](https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/3-stats.svg) ![](https://raw.githubusercontent.com/danrivsa/danrivsa/master/profile-summary-card-output/monokai/1-repos-per-language.svg)-->
 
 <h3 align="left">Find me on social media:</h3>
 <p align="left">
