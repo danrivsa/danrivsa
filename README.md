@@ -2,10 +2,10 @@
 <h3 align="center">✨Welcome to my Github profile✨</h3>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/34323866/209419942-2317929b-95b5-44a4-a897-13e6a95ecf3a.png" width="270" height="270"/>
+    <img src="https://user-images.githubusercontent.com/34323866/209710439-d160268a-fa07-45b5-a4da-61b9ea0b9ee7.gif" width="300" height="300"/>
   </div>
   
-<p align ="left">I'm a software developer from Venezuela, usually I like to spend my time experimenting and exploring new technologies and tech trends to keep myself updated and motivated. I also like to experment with cybersecurity stuff and design. I'm always willing to learn something new. I like to develop web applications (frontend/backend) with frameworks such as Angular, Vue or React and technologies such as Nodejs. I also like to do some experiments in Videogame  development with the Unity game engine.</p>
+<p align ="left">I'm a Software Engineer from Venezuela who loves a hot cup of coffee, gaming and nature. Usually I like to spend my time experimenting and exploring new technologies and tech trends to keep myself updated and motivated. I also like to experment with cybersecurity stuff and design. I'm always willing to learn something new. I like to develop web applications (frontend/backend) with frameworks such as Angular, Vue or React and technologies such as Nodejs. I also like to do some experiments in Videogame  development with the Unity game engine.</p>
 
 <div style="
              display: grid;
